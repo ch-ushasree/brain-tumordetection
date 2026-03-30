@@ -130,15 +130,6 @@ Which uncludes a sample dataset. For real medical applications, use properly ann
 - Performance depends on training data quality and quantity
 - Not intended for clinical diagnosis without proper validation
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add proper documentation
-5. Submit a pull request
-
-
 ## conclusion
 
 This software is for research and educational purposes only. It should not be used for actual medical diagnosis or treatment decisions. Always consult qualified medical professionals for health-related matters.
